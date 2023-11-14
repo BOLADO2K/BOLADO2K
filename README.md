@@ -26,12 +26,30 @@
 <a href="https://www.linkedin.com/in/caiam-fernandes-8ba373263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-  
-  
-  ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+<h2 align="left">Studying in this moment:</h2>
+
+<div align="center">
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/ef/fa/94/effa94e2caf9451ac9b92107332a68e6.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+<br clear="both">
+
+
+
+###
 
   
   <div align="center">
@@ -42,4 +60,10 @@
   
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
+
+
+  
+
+
+
   

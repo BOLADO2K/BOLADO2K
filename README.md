@@ -4,50 +4,43 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caiam+Fernandes;I'm+24+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left">Hi</p>
+
+###
 
 <div align="center">
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BOLADO2K&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" />
-  
-</div>
-
-
-
-
-
-
-
-
-
-<div align="center"> 
-<a href="https://www.instagram.com/caiamfernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCj_r0GjIvBM83zEJkQYbGFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:boladonews123@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caiam-fernandes-8ba373263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
-<h2 align="left">Studying in this moment:</h2>
-
-<div align="center">
+  <img height="200" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUNwM4VWnJGCXwcBVwHHnSsZxIa4LqqX_qdingg4Mgr5gZor6D7T2peBR3VN7rxfMFQ"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ef/fa/94/effa94e2caf9451ac9b92107332a68e6.gif"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiam-fernandes-8ba373263/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="boladonews123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://twitter.com/BOLADOIIK" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
 </div>
 
-<br clear="both">
+###
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BOLADO2K&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 

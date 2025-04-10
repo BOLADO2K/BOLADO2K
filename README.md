@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUNwM4VWnJGCXwcBVwHHnSsZxIa4LqqX_qdingg4Mgr5gZor6D7T2peBR3VN7rxfMFQ"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNtYmxjNTF5aWRjMmhxaDlraWh5OG9qcnF4Ynk5M2J2bnRuaXRkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 </div>
 
 ###

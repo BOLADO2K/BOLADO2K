@@ -43,10 +43,8 @@
 
 <div align="center">
   <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=BOLADO2K&theme=radical&show_icons=true"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOLADO2K&layout=compact&theme=radical"></td>
-    </tr>
+    <tr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOLADO2K&layout=compact&theme=radical"></td>
+    
   </table>
 </div>
 

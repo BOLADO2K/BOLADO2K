@@ -41,12 +41,7 @@
 
 ###
 
-<div align="center">
-  <table>
-    <tr><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOLADO2K&layout=compact&theme=radical"></td>
-    
-  </table>
-</div>
+
 
 ###
 

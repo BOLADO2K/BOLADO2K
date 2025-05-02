@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<p align="center">🛠 Tech Stack</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Java logo" />
@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">🌐 Socials</h2>
+<p align="center">🌐 Socials</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/caiam-fernandes-8ba373263/" target="_blank">
